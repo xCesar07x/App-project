@@ -1,0 +1,101 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  
+}
+
+.App{
+  display: grid;
+  grid-row-gap: 1.5rem;
+  
+}
+.box-01{
+  background-color: green;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.box-02{
+  background-color: rgba(228, 57, 57, 0.788);
+  border-radius: 1rem;
+  padding: 1rem;
+}
+.box-03{
+  background-color: skyblue;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.box-04{
+  background-color: orange;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.box-05{
+  background-color: yellow;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.button{
+  color: whitesmoke;
+  background-color: rgba(0, 0, 0, 0.671);
+  
+}
+
+.title{
+  color: rgba(15, 14, 14, 0.884);
+  text-align: center;
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: 700;
+}
+
+.word-list{
+  font-family: sans-serif;
+  text-align: start;
+  font-weight: bold;
+  font-size: small;
+}
+
+
+
+
+
+
+/*.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}*/

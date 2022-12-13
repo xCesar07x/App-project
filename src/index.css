@@ -1,0 +1,44 @@
+.Html{
+  background: rgba(0, 0, 0, 0.555);
+}
+
+@media  screen and (min-width: 576px) {
+  .App{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1.5rem;
+  }
+  
+}
+
+@media  screen and (min-width: 992px) {
+  .App{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 1.5rem;
+  }
+  
+}
+
+
+
+
+
+
+/*
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: darkgrey;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+*/
